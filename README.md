@@ -85,3 +85,15 @@ This report provides an analysis of customer segmentation based on banking trans
 ## **5. Conclusion**
 
 This segmentation analysis provides insights into customer behaviors, helping the bank optimize its service delivery. A focus on **digital banking, regional engagement, and personalized financial products** will enhance customer satisfaction and drive business growth.
+
+**Links**
+
+[Methodology](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Methodology.md)
+
+[Python Script ](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Python%20Script.pdf)
+
+[SQL Script](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/SQL%20Script.pdf)
+
+
+
+
