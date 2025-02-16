@@ -10,7 +10,7 @@ This report outlines the methodologies used for exploring, cleaning, and analyzi
 
 ### **A. View Data Sample**
 
-To gain an overview of the dataset, we displayed the first 20 rows:
+To gain an overview of the dataset, I displayed the first 20 rows:
 
 ```python
 python
