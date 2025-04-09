@@ -44,21 +44,20 @@ Key insights reveal that ATMs remain the most preferred transaction channel, whi
 
 ---
 
-## **3. Advanced Segmentation Analysis (Dashboard 2)**
 
 [![Preview Image](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%202.png))](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%202.png)
 
-### **A. Transaction Frequency by Customer Value Segment**
+### **D. Transaction Frequency by Customer Value Segment**
 
 - Customers are evenly distributed across **low, medium, and high-value segments**.
 - High-value customers transact at the same frequency as low-value customers (**16 transactions per month**).
 
-### **B. Preferred Channels by Region**
+### **E.  Preferred Channels by Region**
 
 - ATMs and branch banking are dominant in **North-Central and North-West**.
 - Mobile apps and online banking are more prevalent in **South-South and South-West**.
 
-### **C. Loan Analysis by Gender and Age Group**
+### **F. Loan Analysis by Gender and Age Group**
 
 - A significant concentration of **active loan customers** comes from:
     - **Females aged 26-45 in the South-West region.**
@@ -66,7 +65,7 @@ Key insights reveal that ATMs remain the most preferred transaction channel, whi
 
 ---
 
-## **4. Business Insights & Recommendations**
+## **4. Recommendations**
 
 ### **A. Digital Banking Expansion**
 
@@ -89,9 +88,6 @@ Key insights reveal that ATMs remain the most preferred transaction channel, whi
 
 ---
 
-## **5. Conclusion**
-
-This segmentation analysis provides insights into customer behaviors, helping the bank optimize its service delivery. A focus on **digital banking, regional engagement, and personalized financial products** will enhance customer satisfaction and drive business growth.
 
 **Links**
 
