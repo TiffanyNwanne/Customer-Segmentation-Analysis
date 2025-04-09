@@ -2,13 +2,20 @@
 
 [![Preview Image](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png))](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png)
 
-## **1. Project Background **
+## **1. Project Background**
 
-This report provides an analysis of customer segmentation based on banking transaction behaviors. The data visualizations presented in the two dashboards highlight key customer characteristics, including preferred transaction channels, loan status, age distribution, and transaction trends by region and value segment.
+NovaBank, a leading financial institution in Sub-Saharan Africa, is committed to leveraging data to enhance customer satisfaction, deepen financial inclusion, and expand digital banking adoption. With a growing presence across multiple regions, NovaBank launched a customer segmentation initiative to better understand transactional behaviors, loan engagement, channel preferences, and regional trends across its diverse user base.
+
+In this project, I am collaborating with NovaBank’s cross-functional executive leadership team — including the Head of Digital Banking, Chief Risk Officer (CRO), Chief Marketing Officer (CMO), and Director of Regional Operations — to execute an end-to-end data analysis strategy. During the bank’s annual performance review, the executive team raised critical questions aimed at optimizing customer service delivery, tailoring financial products, and increasing the bank’s digital penetration.
 
 ---
+## **2. Executive Summary**
+This report presents a comprehensive segmentation analysis of bank customers based on transaction behaviors, loan status, demographic attributes, and regional engagement. Using data visualizations from two dashboards, the study uncovers key patterns in how customers interact with banking services and identifies opportunities for growth and personalization.
 
-## **2. Key Findings**
+Key insights reveal that ATMs remain the most preferred transaction channel, while mobile apps show the lowest adoption, particularly among customers aged 26–35. Loan activity is high among customers within the 26–45 age bracket, with a significant concentration in the South-West region. Gender distribution is nearly equal, and customers are evenly spread across low, medium, and high-value segments, with no notable difference in transaction frequency among these groups.
+
+---
+## **3. Insights**
 
 ### **A. Customer Preferences and Transaction Behavior**
 
