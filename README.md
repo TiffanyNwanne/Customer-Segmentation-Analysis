@@ -1,6 +1,4 @@
-# NovaBank Performance Analysis Report
-
-[![Preview Image](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png))](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png)
+# NovaBank Customer Segmentation Analysis Report
 
 ## **1. Project Background**
 
@@ -16,6 +14,7 @@ Key insights reveal that ATMs remain the most preferred transaction channel, whi
 
 ---
 ## **3. Insights**
+[![Preview Image](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png))](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png)
 
 ### **A. Customer Preferences and Transaction Behavior**
 
