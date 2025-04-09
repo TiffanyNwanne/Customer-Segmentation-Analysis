@@ -1,8 +1,8 @@
-# Bank Customer Segmentation Analysis Report
+# NovaBank Performance Analysis Report
 
 [![Preview Image](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png))](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png)
 
-## **1. Introduction**
+## **1. Project Background **
 
 This report provides an analysis of customer segmentation based on banking transaction behaviors. The data visualizations presented in the two dashboards highlight key customer characteristics, including preferred transaction channels, loan status, age distribution, and transaction trends by region and value segment.
 
