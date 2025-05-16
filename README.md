@@ -51,6 +51,8 @@ Key insights reveal that ATMs remain the most preferred transaction channel, whi
 
 ### **C. Regional Transaction Trends**
 
+[![Preview Image](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Region%20Transaction%20Trends%201.png))](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Region%20Transaction%20Trends%201.png)
+
 - **Highest Transaction Activity:**
     - The **South-West region** accounts for the majority of transactions (**35%**).
 - **Lowest Transaction Activity:**
@@ -71,6 +73,8 @@ Key insights reveal that ATMs remain the most preferred transaction channel, whi
 - Mobile apps and online banking are more prevalent in **South-South and South-West**.
 
 ### **F. Loan Analysis by Gender and Age Group**
+
+[![Preview Image](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Region%20Transaction%20Trends%202.png))](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Region%20Transaction%20Trends%202.png)
 
 - A significant concentration of **active loan customers** comes from:
     - **Females aged 26-45 in the South-West region.**
