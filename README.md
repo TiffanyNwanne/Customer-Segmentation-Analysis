@@ -8,15 +8,23 @@ In this project, I am collaborating with NovaBank’s cross-functional executive
 
 ---
 ## **2. Executive Summary**
+
+[![Preview Image](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png))](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png)
+
 This report presents a comprehensive segmentation analysis of bank customers based on transaction behaviors, loan status, demographic attributes, and regional engagement. Using data visualizations from two dashboards, the study uncovers key patterns in how customers interact with banking services and identifies opportunities for growth and personalization.
 
 Key insights reveal that ATMs remain the most preferred transaction channel, while mobile apps show the lowest adoption, particularly among customers aged 26–35. Loan activity is high among customers within the 26–45 age bracket, with a significant concentration in the South-West region. Gender distribution is nearly equal, and customers are evenly spread across low, medium, and high-value segments, with no notable difference in transaction frequency among these groups.
 
+[![Preview Image](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%202.png))](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%202.png)
+
 ---
 ## **3. Insights**
-[![Preview Image](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png))](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png)
+
 
 ### **A. Customer Preferences and Transaction Behavior**
+
+[![Preview Image](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Most%20Preferred%20Transaction%20Channel.png))](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Most%20Preferred%20Transaction%20Channel.png)
+
 
 - **Most Preferred Transaction Channel:**
     - ATMs are the most preferred transaction channel, with **27%** of customers using them.
@@ -25,11 +33,18 @@ Key insights reveal that ATMs remain the most preferred transaction channel, whi
     - Customers conduct an average of **16 transactions per month**.
 
 ### **B. Loan Status and Customer Distribution**
+[![Preview Image](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Loan%20Status.png))](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Loan%20Status.png)
 
 - **Active Loans:**
     - **37% of customers** have active loans.
+ 
+[![Preview Image](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Gender%20Distribution.png))](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Gender%20Distribution.png)
+
 - **Gender Distribution:**
     - Males make up **51%** of the customer base, while females account for **49%**.
+ 
+[![Preview Image](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Age%20Distribution.png))](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Age%20Distribution.png)
+
 - **Age Distribution:**
     - The highest customer concentration falls within the **26-35 age group (23%)**.
     - The **65+ age group (3%)** represents the smallest percentage.
@@ -41,12 +56,10 @@ Key insights reveal that ATMs remain the most preferred transaction channel, whi
 - **Lowest Transaction Activity:**
     - The **North-West region** has the lowest transaction share (**15%**).
 
----
 
-
-[![Preview Image](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%202.png))](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%202.png)
 
 ### **D. Transaction Frequency by Customer Value Segment**
+[![Preview Image](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Transaction%20Frequency%20for%20each%20Value%20Segment.png))](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Transaction%20Frequency%20for%20each%20Value%20Segment.png)
 
 - Customers are evenly distributed across **low, medium, and high-value segments**.
 - High-value customers transact at the same frequency as low-value customers (**16 transactions per month**).
