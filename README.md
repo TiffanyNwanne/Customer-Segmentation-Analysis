@@ -65,6 +65,7 @@ Key insights reveal that ATMs remain the most preferred transaction channel, whi
 - High-value customers transact at the same frequency as low-value customers (**16 transactions per month**).
 
 ### **E.  Preferred Channels by Region**
+[![Preview Image](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Preferred%20Channel%20by%20Region.png))](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Preferred%20Channel%20by%20Region.png)
 
 - ATMs and branch banking are dominant in **North-Central and North-West**.
 - Mobile apps and online banking are more prevalent in **South-South and South-West**.
