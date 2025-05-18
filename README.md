@@ -11,11 +11,8 @@ In this project, I am collaborating with NovaBank’s cross-functional executive
 
 [![Preview Image](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png))](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%201.png)
 
-This report presents a comprehensive segmentation analysis of bank customers based on transaction behaviors, loan status, demographic attributes, and regional engagement. Using data visualizations from two dashboards, the study uncovers key patterns in how customers interact with banking services and identifies opportunities for growth and personalization.
 
 Key insights reveal that ATMs remain the most preferred transaction channel, while mobile apps show the lowest adoption, particularly among customers aged 26–35. Loan activity is high among customers within the 26–45 age bracket, with a significant concentration in the South-West region. Gender distribution is nearly equal, and customers are evenly spread across low, medium, and high-value segments, with no notable difference in transaction frequency among these groups.
-
-[![Preview Image](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%202.png))](https://github.com/TiffanyNwanne/Customer-Segmentation-Analysis/blob/main/Dashboard%202.png)
 
 ---
 ## **3. Insights**
@@ -29,8 +26,7 @@ Key insights reveal that ATMs remain the most preferred transaction channel, whi
 - **Most Preferred Transaction Channel:**
     - ATMs are the most preferred transaction channel, with **27%** of customers using them.
     - Mobile banking apps are the least used, accounting for **23%**.
-- **Average Transaction Frequency:**
-    - Customers conduct an average of **16 transactions per month**.
+  
 
 ### **B. Loan Status and Customer Distribution**
 [![Preview Image](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Loan%20Status.png))](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Loan%20Status.png)
