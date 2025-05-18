@@ -65,8 +65,10 @@ Key insights reveal that ATMs remain the most preferred transaction channel, whi
 ### **E.  Preferred Channels by Region**
 [![Preview Image](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Preferred%20Channel%20by%20Region.png))](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis/blob/main/Preferred%20Channel%20by%20Region.png)
 
-- ATMs and branch banking are dominant in **North-Central and North-West**.
-- Mobile apps and online banking are more prevalent in **South-South and South-West**.
+- The channel used most in the North Central Region is **Branch banking**
+- ATMs are used the most in the North-West, South-East and South-South, though the South-South uses both ATMs and Online banking options evenly.
+- Online banking is most prevalent in the South-West.
+
 
 ### **F. Loan Analysis by Gender and Age Group**
 
